@@ -3,7 +3,7 @@
 
 The course proceeds according to the syllabus which is separately given by the lecturer. It is distinct to the two groups made during the first session of class. The syllabi for the two groups  progress as given below: 
   
-  #### SYLLABUS
+  ### SYLLABUS
   
   **BATCH A**
   
