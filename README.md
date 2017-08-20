@@ -25,6 +25,8 @@ The course proceeds according to the syllabus which is separately given by the l
   * Day 5 : Electronics Production and CNC
   * Day 6 : Vinyl Cutting
   * Day 7 : Screen Printing
+  
+  ***Note: Due to some unforseen circumstances the given system of day to day syllabus and group division was dropped from Day 4, due to the immediate change in time table and working days.***
 
 
 #### ADVANCEMENT OUTLINE
