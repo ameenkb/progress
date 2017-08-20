@@ -94,6 +94,6 @@ The course proceeds according to the syllabus which is separately given by the l
   
   All assignments were completed on time.
 
-[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
-
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+  
+[![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
