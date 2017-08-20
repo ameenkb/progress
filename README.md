@@ -67,8 +67,33 @@ The course proceeds according to the syllabus which is separately given by the l
   Daily Assignments:
   - Project: Ideate the design of any daily use product to be built using the 3D printer or any CNC machine
   
-  All assignments were completed on time. THe basic prototype designed and printed can be viewed [here](https://ameenkb.github.io/Images/Basic Prototype 1.jpg).
+  All assignments were completed on time. The basic prototype designed and printed can be viewed [here](https://ameenkb.github.io/Images/Basic Prototype 1.jpg).
   
+- `16-08-2017`
+
+  Day 4: Laser Cutting and Vinyl Printing
+  
+  The day commenced with the introduction and basic explaination about the CNC Laser Cutter and Vinyl Printer. The working and basic operation of both the machines were explained and assignments were given to familiarize the students with the machines. The softwares used for giving design input to both the machines were also explained.
+  
+  Daily Assignments:
+  - Design and cut any daily use product model using laser cutter
+  - Design and cut any text or design on vinyl sheet using the vinyl cutter
+  
+    All assignments were completed on time.
+    
+- `17-08-2017`
+
+  Day 5: Printer and Cutter Assignments
+  
+  THe full day was dedicated for clarifying the doubts on the previous classes and practical side of designing, also to perform a simple assignment on creating any daily use objects using the 3D Printer, Laser Cutter and the Vinyl Printer.
+  
+  Daily Assignments:
+  - Project:  Ideate the design of any daily use product to be cut and built using the Laser Cutter CNC machine
+  - Project:  Ideate the design of any daily use product to be built using the 3D printer
+  - Project:  Ideate the design of any daily use product to be cut and pasted using the Vinyl Printer CNC machine
+  
+  All assignments were completed on time.
+
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
 
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
