@@ -87,7 +87,7 @@ The course proceeds according to the syllabus which is separately given by the l
 
   Day 5: Printer and Cutter Assignments
   
-  THe full day was dedicated for clarifying the doubts on the previous classes and practical side of designing, also to perform a simple assignment on creating any daily use objects using the 3D Printer, Laser Cutter and the Vinyl Printer.
+  The full day was dedicated for clarifying the doubts on the previous classes and practical side of designing, also to perform a simple assignment on creating any daily use objects using the 3D Printer, Laser Cutter and the Vinyl Printer.
   
   Daily Assignments:
   - Project:  Ideate the design of any daily use product to be cut and built using the Laser Cutter CNC machine
@@ -97,5 +97,23 @@ The course proceeds according to the syllabus which is separately given by the l
   All assignments were completed on time.
 
   ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
+  
+- `22-08-2017`
+
+  Day 6: Electronics, PCB Milling, Moulding and Casting
+  
+  The final day commenced with a brief session on electronics printing and tutorial on Autodesk Eagle. Basic working and tutorials on how to design an electronics circuit on PCB using Autodesk Eagle was given. Later that day, every student made their own dedsigned circuit that was then milled on a pcb using the ShopBot CNC machine. Due to time lag, soldering the PCB was presented theoretically. 
+  
+  In between the design of circuit, a brief introduction was given about Moulding and Casting any prototype using acrylic rubber as the material. A demonstration was also given by moulding andcasting a ring using the moulds printed by the Ultimaker 2+ 3D printer. The cast made using rubber was taken out 4 hours after moulding.
+  
+  Daily Assignments:
+  - Design a circuit using Autodesk Eagle
+  - Create a PCB milled using ShopBot CNC machine
+  - Mould and Cast any structure 
+  - Screen print words on a T-Shirt
+  
+All assignments where completed on time.
+
+![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
   
 [![Back](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png) GO TO HOMEPAGE ![Arrow](https://cdn0.iconfinder.com/data/icons/navigation-set-arrows-part-one/32/DoubleChevronUp-20.png)](https://ameenkb.github.io)
